@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_431c7ad7ebf1e1ce15175cf65cfd1cc4b1f67784.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c09df3f34ced316cf80bbbb848651eda6989b862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.6.0_431c7ad7ebf1e1ce15175cf65cfd1cc4b1f67784\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.11.0_4265234f94a2727e88f749daf976c0e8538e1dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\pre-dexed\debug\gson-2.6.2_fbaf0409b1987e891373406650f16eb85a938714.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6-with-sources_18b225fa7e7876270726909f14200c2c537a37ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_fbaf0409b1987e891373406650f16eb85a938714\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-with-sources_18b225fa7e7876270726909f14200c2c537a37ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec58aa04a91b4736bedd69642f47f8309f8d9af1">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6e468aa33d7e0535412a79577b84dde46a779eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okhttputils-2_6_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b58ea597d7d7a6ef0ec42ae3994985f7e86553f">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\pre-dexed\debug\okhttputils-2_6_2_6639648b5167b56e698c545eb142a8bb747dede9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\pre-dexed\debug\okio-1.11.0_4265234f94a2727e88f749daf976c0e8538e1dca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\Desktop\newProject\Fitness\Fitness\libs\okhttputils-2_6_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b58ea597d7d7a6ef0ec42ae3994985f7e86553f">
+        <dex dex="C:\Users\PC\Desktop\newProject\Fitness\Fitness\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttputils-2_6_2_6639648b5167b56e698c545eb142a8bb747dede9\classes.dex" />
+    </item>
+
+</items>
